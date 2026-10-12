@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Build artifacts
+build/
+*.o
+*.out
+
+# Core dumps
+core
+core.*
+
+# Editor / OS cruft
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+__MACOSX/
+
+# Local scratch
+*.log
+scratch/
+tmp/
